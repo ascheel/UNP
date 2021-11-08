@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.Sqlite;
 
-namespace DEUNP
+namespace UNP
 {
 	class DB
 	{

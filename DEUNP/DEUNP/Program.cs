@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DEUNP
+namespace UNP
 {
 	class Program
 	{
