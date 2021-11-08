@@ -352,5 +352,6 @@ MigrationBackup/
 # Visual Studio Code settings
 .vscode/
 
-# Docker Kafka files
+# python virtual environments
+*/.venv/
 
