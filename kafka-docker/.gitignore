@@ -1,0 +1,4 @@
+volumes/kafka-data/*
+volumes/zk-txn-logs/*
+volumes/zk-data/*
+
